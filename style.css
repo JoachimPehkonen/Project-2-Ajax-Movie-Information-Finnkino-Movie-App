@@ -1,0 +1,40 @@
+body  {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+ul {
+    list-style-type: none;
+    background-color: gray;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    height: 50px;
+    align-items: center;
+}
+
+li a{
+    text-decoration: none;
+}
+
+ul #etusivu  {
+    margin-left: 50px;
+    color: white;
+}
+
+ul #teatterit {
+    margin-left: 150px;
+    color: white;
+}
+
+ul #show {
+    margin-left: 50px;
+    color: white;
+}
+
+ul #etsi {
+    margin-left: 150px;
+
+    
+}
