@@ -101,7 +101,7 @@ Kuva 2: Leffaosion toiminnallisuus
 ![Leffaosio](images/Leffatoiminnallisuus.png)
 
 Kuva 3: Sarjaosion toiminnallisuus
-![Sarjaosio](images/Sarjatoiminnallisuus.png)
+![Sarjaosio](images/sarja.png)
 
 Kuva 4: Lisätiedot toiminnallisuus
 ![Lisätiedotsivu](images/Lisätiedotsivu.png)
