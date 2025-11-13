@@ -95,7 +95,7 @@ Jotkut julisteet ei saata näkyä, koska niitä ei löydy omdb API:sta, mutta mu
 **Kuvakaappaukset Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta:**
 
 Kuva 1: "Etusivu"
-![Etusivu](images/Etusivu.png)
+![Etusivu](images/Pääsivu.png)
 
 Kuva 2: Leffaosion toiminnallisuus
 ![Leffaosio](images/Leffatoiminnallisuus.png)
